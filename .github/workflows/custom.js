@@ -13,7 +13,7 @@ let mainConfig = {
   repoConfig: {
     owner: "wenlive",
     repo: "wenlive.github.io",
-    pushBranch: "master",
+    pushBranch: "main",
     email: "liboqi1996@126.com",
     filterUsers: []
   },
