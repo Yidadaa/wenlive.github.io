@@ -5,14 +5,14 @@
 let mainConfig = {
   vssueConfig: {
     owner: "wenlive",
-    repo: "Issue-Blog-With-Github-Action",
+    repo: "wenlive.github.io",
     clientId: "a8d6afea86392395ec42",
     clientSecret: "5a5f040fcbf1bde818aaa33bcb8bee4d09dff1c7"
   },
 
   repoConfig: {
     owner: "wenlive",
-    repo: "Issue-Blog-With-Github-Action",
+    repo: "wenlive.github.io",
     pushBranch: "master",
     email: "liboqi1996@126.com",
     filterUsers: []
