@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          wget https://raw.githubusercontent.com/wenlive/wenlive.github.io/main/.github/workflows/placeholder.md -O ./src/cv.md
+          wget https://raw.githubusercontent.com/wenlive/wenlive.github.io/main/.github/workflows/cv.md -O ./src/cv.md
           wget https://raw.githubusercontent.com/wenlive/wenlive.github.io/main/.github/workflows/custom.js -O ./src/.vuepress/custom.js
           npm install vuepress
           npm install
