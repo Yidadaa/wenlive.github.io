@@ -21,7 +21,7 @@ let mainConfig = {
   title: "wenlive's Blog",
   description: "念经",
   customDomain: "",
-  base: "/Issue-Blog-With-Github-Action/",
+  base: "/",
 
   slogan: {
     main: "可比克",
@@ -32,7 +32,7 @@ let mainConfig = {
     nav: [
       {
         name: "首页",
-        link: "/Issue-Blog-With-Github-Action"
+        link: "/"
       },
       {
         name: "Github",
